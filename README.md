@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @nimitauprety
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Full Stack Web Development
 - 📫 How to reach me uprety.nimita@gmail.com
